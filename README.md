@@ -15,18 +15,18 @@ Follow the _Table 3-9.r_ code for more information on variables and panel data a
 
 _data_for_table.csv_ is the data for Table 10. These are the relevant variables, selected from the large panel dataset. 
 
-_Table 10 stata code.do_.  is based on Lakdawala et al.(2021) and Iacoviello & Navarro (2019).
+_Table 10 stata code.do_  is based on Lakdawala et al.(2021) and Iacoviello & Navarro (2019).
 
 Instruction:
-Read _data_for_table.csv_ into Stata and run _Table 10 stata code.do_. 
+Read _data_for_table10.csv_ into Stata and run _Table 10 stata code.do_. 
 
 ##Replication of the decomposition of monetary policy shocks into central bank information effect and true monetary policy shocks
 
 _decompdata.xlsx_ contains the relevant data for the decomposition. Monetary policy shocks obtained from Lakdawala et al. (2021) and two-day changes in S&P500 obtained from Bloomberg
 
-_signrestr_median.m_ was obtained from [Marek Jarocinski's website](https://marekjarocinski.github.io/) and implements the median rotation described in Jarocinki(2022)
+_signrestr_median.m_ was obtained from [Marek Jarocinski's website](https://marekjarocinski.github.io/) and implements the median target rotation described in Jarocinki(2022)
 
-_decomposition_main_code.m_ contains the code to carry out the decomposition
+_decomposition_main_code.m_ contains the code to read the data and carry out the decomposition
 
 Instruction:
 Run _decomposition_main_code.m_.
