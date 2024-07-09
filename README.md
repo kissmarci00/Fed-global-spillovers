@@ -4,7 +4,7 @@ Replication files for COMPREHENSIVE LOOK ON THE GLOBAL SPILLOVERS OF US MONETARY
 
 ##Replication of Table 3-9:
 
-Panel data available on the following [link:](https://docs.google.com/spreadsheets/d/1UQwIR2QPpHSAuk50hbdnqgOv16F_f55a/edit?usp=drive_link&ouid=101240359591743494198&rtpof=true&sd=true) 
+Panel data available on this [link](https://docs.google.com/spreadsheets/d/1UQwIR2QPpHSAuk50hbdnqgOv16F_f55a/edit?usp=drive_link&ouid=101240359591743494198&rtpof=true&sd=true) 
 
 Source of data: [Lakdawala et al. (2021)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O2DABL) and Bloomberg
 
