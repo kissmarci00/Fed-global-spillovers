@@ -9,7 +9,7 @@ Panel data available on this [link](https://docs.google.com/spreadsheets/d/1UQwI
 Source of data: [Lakdawala et al. (2021)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O2DABL) and Bloomberg
 
 Instruction:
-Follow the R code for more information on variables and panel data analysis
+Follow the _Table 3-9.r_ code for more information on variables and panel data analysis
 
 ##Replication of Table 10:
 
