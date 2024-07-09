@@ -13,7 +13,7 @@ Follow the _Table 3-9.r_ code for more information on variables and panel data a
 
 ##Replication of Table 10:
 
-_data_for_table.csv_ is the data for Table 10. These releant variables were selected from the large panel dataset. 
+_data_for_table.csv_ is the data for Table 10. These are the relevant variables, selected from the large panel dataset. 
 _Table 10 stata code.do_.  is based on Lakdawala et al.(2021) and Iacoviello & Navarro (2019).
 
 Instruction:
